@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/*      header section     */
+
+
+
+
+.header{
+    background-color: rgb(10, 9, 56);     
+   
+}
+.header-logo{
+    text-align: center;
+    padding-top: 7px;
+}
+
+/*    menu section   */
+
+
+
+.primary-menu ul{
+    text-align: center;
+    margin-bottom: 0;
+}
+.primary-menu ul li{
+    display: inline-block;
+    margin-left: -4px;
+}
+.primary-menu ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 10px;
+    display: block;
+    padding: 0px 20px;
+    line-height: 65px;
+    
+}
+.primary-menu ul li a:hover{
+    background-color: rgb(43, 40, 158);
+}
+
+
+/*    banner  section   */
+
+.banner{
+    background-image: url(https://i.ibb.co/Jyt6DJr/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 200px;
+    color: #fff;
+}
+.banner p{
+    font-size: 15px;
+}
+.banner ul{
+    margin-top: 50px;
+}
+
+          /* Service section */
+
+
+.service{
+    background-color: rgb(201, 179, 231);
+}
+.service p{
+    font-size: 15px;
+    margin: auto;
+}
+.sevice ul{
+    
+}
+/*   About section */
+
+
+.about{
+    background-color: rgb(199, 210, 212);
+    padding-top: 100px;
+}
+.about .col-md-7{
+    font-size: 15px;
+    
+}
+
+.about ul li{
+    list-style: none;
+    
+}
